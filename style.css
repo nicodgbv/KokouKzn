@@ -123,6 +123,7 @@ p {
 
 .carousel-item {
 	height: 400px;
+	top:-100px;
 }
 
 .logo {
