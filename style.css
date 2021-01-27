@@ -132,18 +132,17 @@ p {
 
 .Icons {
 	width: 95%;
-	font-size: 36px;
+	font-size: 50px;
+	text-align: center;
 	display: flex;
-	justify-content: space-around;
-}
-
-.flexr {
-	width: 100%;
-	margin: auto;
-	display: flex;
-	flex-wrap: wrap;
 	justify-content: center;
 	align-content: center;
+	flex-direction: column;
+}
+
+.bgres {
+	width: 100%;
+	margin: auto;
 	background-color: black;
 }
 
