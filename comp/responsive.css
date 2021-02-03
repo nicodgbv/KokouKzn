@@ -91,4 +91,17 @@ h1 {
 .btn {
 	font-size: 8px;
 }
+.Icons {
+	width: 95%;
+	font-size: 25px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-direction: column;
+}
+
+.res{
+	height: 500px;
+}
 }
